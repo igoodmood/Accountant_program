@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jasperreports-6.5.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../jasperreports-6.5.1/dist/jasperreports-6.5.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
